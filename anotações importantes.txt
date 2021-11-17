@@ -1,0 +1,12 @@
+ls -a  mostra arquivos e pastas ocultos
+
+git pull origin master   puxa repositorio git
+
+git remote -v     mostra o repositorio
+
+falvojr
+
+introdução ao git e ao github
+
+markidown.org
+
